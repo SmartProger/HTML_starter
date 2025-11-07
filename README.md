@@ -1,5 +1,5 @@
 # HTML_starter
 
-Шаблон HTML
+HTML_start_template
 
-## Автор: Сергей Медведев
+## Autor: Sergey Medvedev
